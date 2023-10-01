@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Service Registry System for my Unity Engine Game",
     "displayName": "Service Registry System",
-    "documentationUrl": "https://github.com/arijeetbaruah/ServiceRegistry"
+    "documentationUrl": "https://github.com/arijeetbaruah/ServiceRegistry",
     "author": {
         "name": "Arijeet Baruah",
         "email": "arijeetbaruah@gmail.com",
