@@ -1,0 +1,11 @@
+{
+    "name": "com.github.arijeetbaruah.serviceregistry",
+    "version": "1.0.0",
+    "description": "Service Registry System for my Unity Engine Game",
+    "displayName": "Service Registry System",
+    "author": {
+        "name": "Arijeet Baruah",
+        "email": "arijeetbaruah@gmail.com",
+        "url": "https://github.com/arijeetbaruah"
+    }
+}
